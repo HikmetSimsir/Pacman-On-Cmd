@@ -4,7 +4,7 @@
         "name": "(Windows) Launch",
         "type": "cppvsdbg",
         "request": "launch",
-        "program": "${workspaceFolder}\\bin\\Debug\\console_app.exe",
+        "program": "${workspaceFolder}\\bin\\Debug\\cmd_pacman.exe",
         "args": [],
         "stopAtEntry": false,
         "cwd": "${fileDirname}",
