@@ -1,3 +1,0 @@
-C:/Users/muh20/OneDrive/Masaüstü/console/build/CMakeFiles/cmd_pacman.dir
-C:/Users/muh20/OneDrive/Masaüstü/console/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/muh20/OneDrive/Masaüstü/console/build/CMakeFiles/ZERO_CHECK.dir
